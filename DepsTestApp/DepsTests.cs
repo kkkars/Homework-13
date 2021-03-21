@@ -19,7 +19,7 @@ namespace DepsTestApp
 
             var loginData = new LoginDataDto
             {
-                Login = "string1",
+                LoginId = "string1",
                 Password = "string"
             };
 
